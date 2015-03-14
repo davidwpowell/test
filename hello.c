@@ -1,5 +1,4 @@
 /* Test Program: Hello.c */
-
 #include <stdio.h>
 
 int main() {
@@ -8,6 +7,7 @@ int main() {
   
   printf("Hello.");
   
+  // comment
   
   return 0;
 }
